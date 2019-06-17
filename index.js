@@ -1,11 +1,22 @@
-function dwarfRollCall(dwarves) {
+dwarfRollCall("Doc", "Dopey", "Bashful", "Grumpy");
+
+planeteerCalls("earth", "wind", "fire", "water", "heart");
+summonCaptainPlanet(planeteerCalls.toUpperCase); {
+  return ["EARTH", "WIND!", "FIRE!", "WATER!", "HEART!"];
 }
 
-function summonCaptainPlanet(planeteerCalls){
+longPlaneteerCalls(); {
+  planeteerCalls.index > 4; true;
+planeteerCalls.index <= 4;
+return false;
+  
 }
 
-function longPlaneteerCalls(words) {
+
+findTheCheese("cheddar", "gouda", "camembert", "Crackers");
+findTheCheese(0,1,2);{
+  return "cheese";
 }
 
-function findTheCheese (foods) {
-}
+const ingredients = ["garlic", "rosemary", "bread"];
+return null;
