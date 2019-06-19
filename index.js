@@ -3,9 +3,10 @@ var dwarfRollCall = ["Doc", "Dopey", "Bashful", "Grumpy"];
 }
 
 var planeteerCalls = ["earth", "wind", "fire", "water", "heart"];
-var summonCaptainPlanet = planeteerCalls.toUpperCase();
-console.log(summonCaptainPlanet.toUpperCase);
-
+var summonCaptainPlanet = planeteerCalls.toUpperCase;
+{
+  console.log(summonCaptainPlanet);
+}
 longPlaneteerCalls(); {
   shortPlaneteerCalls.foreach;
   planeteerCalls.index > 4; true;
