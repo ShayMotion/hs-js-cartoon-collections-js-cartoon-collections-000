@@ -3,8 +3,8 @@ var dwarfRollCall = ["Doc", "Dopey", "Bashful", "Grumpy"];
 }
 
 var planeteerCalls = ["earth", "wind", "fire", "water", "heart"]; {
-planeteerCalls.toUpperCase());
-  summonCaptainPlanet();
+planeteerCalls.toUpperCase();
+console.log();
 }
 longPlaneteerCalls(); {
   shortPlaneteerCalls.foreach;
