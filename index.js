@@ -2,8 +2,9 @@ var dwarfRollCall = ["Doc", "Dopey", "Bashful", "Grumpy"];
 { "1."+dwarfRollCall[0]+" "+"2."+dwarfRollCall[1]+" "+"3."+dwarfRollCall[2]+" "+"4."+dwarfRollCall[0];
 }
 
-var planeteerCalls = ["earth", "wind", "fire", "water", "heart"]; {
- planeteerCalls.toUpperCase; 
+var planeteerCalls = ["earth", "wind", "fire", "water", "heart"];
+{
+ planeteerCalls(index).toUpperCase; 
 }
 
 longPlaneteerCalls(); {
